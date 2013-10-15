@@ -1,0 +1,3 @@
+#includedir /etc/sudoers.d
+
+vagrant		ALL=(ALL)	NOPASSWD: ALL
